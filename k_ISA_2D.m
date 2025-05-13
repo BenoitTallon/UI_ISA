@@ -1,4 +1,4 @@
-function [f,k0a,vl0,kISA,vph,vgr,ve,ltr] = k_ISA_2D_test(M0,M1,M2,N,f,Rm,P,phi,Nr,Rwidth)
+function [f,k0a,vl0,kISA,vph,vgr,ve,ltr] = k_ISA_2D(M0,M1,M2,N,f,Rm,P,phi,Nr,Rwidth)
 
 % Mat = materiau pour la matrice
 % Inc = materiau pour les inclusions
